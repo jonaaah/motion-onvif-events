@@ -7,7 +7,7 @@
   "dependencies": {
     "argparse": "^1.0.10",
     "node-fetch": "^2.1.2",
-    "onvif": "https://github.com/nickw444/onvif.git"
+    "onvif": "git+https://github.com/Jonaaah/onvif.git"
   },
   "bin": {
     "motion-onvif-events": "./motion-onvif-events.js"
